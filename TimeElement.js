@@ -6,7 +6,7 @@ function calculateTimeElements(options)
 {
 	if(typeof $=="undefined")
 	{
-		console.error("TimeElements requires jQuery.");
+		console.error("TimeElement.js requires jQuery.");
 		return false
 	}
 	if(typeof options=="undefined")options={};
@@ -19,7 +19,7 @@ function calculateTimeElements(options)
 		if(num<10)num="0"+num;
 		return num
 	};
-	$("[data-time]").each(function()
+	$("[data-time]:not(data-ignore-time-element)").each(function()
 	{
 		var now=new Date(),
 		time=($(this).attr("data-time")*1000),

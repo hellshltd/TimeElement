@@ -6,7 +6,7 @@ A Javascript library, which you can use to turn UNIX timestamps into user-readab
 
 ## `calculateTimeElements([options])`
 
-Calculates all time elements.
+(Re)Calculates all time elements.
 
 **Options:**
 
