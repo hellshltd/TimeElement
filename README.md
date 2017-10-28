@@ -21,4 +21,3 @@ You can pass an object (`{}`) with any of these values in it:
 
 - `data-time` specifies that this is a TimeElement and the value is the timestamp that is to be evaluated.
 - `data-notime` specifies that only the date of the timestamp is to be shown.
-- `data-datetime`  specifies that the time of the timestamp is to be shown even when it is 00:00

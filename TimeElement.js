@@ -26,7 +26,7 @@ function calculateTimeElements(options)
 		date=new Date(time),
 		text="",
 		notime=$(this).is("[data-notime]"),
-		datetime=!notime&&(date.getHours()||$(this).is("[data-datetime]")),
+		datetime=!notime,
 		date=new Date(date.getTime()+(now.getTimezoneOffset()*-1/60*3600));
 		if(!notime&&(now.getFullYear()==date.getFullYear()&&now.getDate()==date.getDate()&&now.getMonth()==date.getMonth()))
                 {
