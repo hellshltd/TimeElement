@@ -18,7 +18,7 @@ function calculateTimeElements(options)
 	{
 		if(num<10)num="0"+num;
 		return num
-	}
+	};
 	$("[data-time]").each(function()
 	{
 		var now=new Date(),
