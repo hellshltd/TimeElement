@@ -12,8 +12,8 @@ A Javascript library, which you can use to turn UNIX timestamps into user-readab
 
 You can pass an object (`{}`) with any of these values in it:
 
-- `year`: Formatting if timestamp's year is unequal to the current one. (Default: `{y}-{m}-{d}`
-- `date`: Formatting if timestamp's year is equal to current one. (Default: `{m}-{d}`
+- `year`: Formatting if timestamp's year is unequal to the current one. (Default: `{y}-{m}-{d}`)
+- `date`: Formatting if timestamp's year is equal to current one. (Default: `{m}-{d}`)
 - `time`: Time formatting. (Default: `{h}:{i}`)
 - `datetime`: Formatting if both date and time are shown. (Default: `{date} {time}`)
 
