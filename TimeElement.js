@@ -1,4 +1,4 @@
-/* TimeElement.js https://github.com/netdexco/TimeElement */
+/* TimeElement.js https://github.com/netducks/TimeElement */
 
 let $=window.$||window.jQuery;
 
