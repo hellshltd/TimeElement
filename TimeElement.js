@@ -1,9 +1,8 @@
 /* TimeElement.js https://github.com/netducks/TimeElement */
 
-let $=window.$||window.jQuery;
-
 function calculateTimeElements(options)
 {
+	let $=window.$||window.jQuery;
 	if(typeof $=="undefined")
 	{
 		console.error("TimeElement.js requires jQuery.");
