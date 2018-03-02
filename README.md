@@ -2,7 +2,7 @@
 
 A Javascript library, which you can use to turn UNIX timestamps into user-readable text, considering their timezone.
 
-[[Examples]](https://netdexco.github.io/TimeElement/) [[Download]](https://raw.githubusercontent.com/netdexco/TimeElement/master/TimeElement.js)
+[[Examples]](https://netducks.github.io/TimeElement/) [[Download]](https://raw.githubusercontent.com/netdexco/TimeElement/master/TimeElement.js)
 
 ## `calculateTimeElements([options])`
 
