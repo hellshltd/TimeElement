@@ -1,4 +1,4 @@
-/* TimeElement.js https://github.com/netducks/TimeElement */
+/* TimeElement.js, Copyright 2017-2018 Hellsh Ltd., GPL-3.0, https://github.com/hellshltd/TimeElement */
 
 function calculateTimeElements(options)
 {
