@@ -1,8 +1,8 @@
-# TimeElement
+# TimeElements.js
 
-A Javascript library, which you can use to turn UNIX timestamps into user-readable text, considering their timezone.
+A Javascript library to turn UNIX timestamps into user-readable text including their timezone.
 
-[[Examples]](https://netducks.github.io/TimeElement/) [[Download]](https://raw.githubusercontent.com/netdexco/TimeElement/master/TimeElement.js)
+[[Example]](https://hellshltd.github.io/TimeElements.js/) [[Download]](https://raw.githubusercontent.com/hellshltd/TimeElements.js/master/TimeElements.js)
 
 ## `calculateTimeElements([options])`
 
