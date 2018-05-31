@@ -10,7 +10,7 @@ You can either load the script from cdn.hell.sh using
 
     <script src="https://cdn.hell.sh/TimeElements.js/1.0/TimeElements.js" integrity="sha384-G4jssA7AejZUKTTPqfWO22vbVDckiWLq5eH3IYeQs8roaefDyMOVUO7VJTe7DM5w" crossorigin="anonymous"></script>
 
-or you [download the TimeElements.js](https://raw.githubusercontent.com/hellshltd/TimeElements.js/master/TimeElements.js) and host it yourself.
+or [download the TimeElements.js](https://raw.githubusercontent.com/hellshltd/TimeElements.js/master/TimeElements.js) and host it yourself.
 
 ## `calculateTimeElements([options])`
 
