@@ -1,4 +1,4 @@
-/* TimeElements.js, Copyright 2017-2018 Hellsh Ltd., GPL-3.0, https://github.com/hellshltd/TimeElements.js */
+/* TimeElements.js 1.0.1 — Copyright 2017-2018 Hellsh Ltd. — https://github.com/hellshltd/TimeElements.js */
 
 function calculateTimeElements(options)
 {
